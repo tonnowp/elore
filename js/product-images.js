@@ -37,7 +37,7 @@ const PRODUCT_IMAGES = {
   "obsidianstolsice.png": "https://i.imgur.com/q7mvr4I.png",
   "celestialsilk.png": "https://i.imgur.com/KqC4538.png",
   "soleil.png": "https://i.imgur.com/bHaeFya.png",
-  "nocturnerose.png": "https://i.ibb.co/Jj32dTH5/nocturnerose.png",
+  "nocturnerose.png": "https://i.imgur.com/QD2ovHl.png",
   "solaris.png": "https://i.ibb.co/fzxxSG6b/solaris.png",
   "sirens.png": "https://i.ibb.co/DP6cQkx6/sirens.png",
   "nocturnevelvet.png": "https://i.ibb.co/Y4TLc3W7/nocturnevelvet.png",
