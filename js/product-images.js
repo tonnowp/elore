@@ -19,8 +19,8 @@
    these in gradually.
    ========================================================== */
 const PRODUCT_IMAGES = {
-  "florale.png": "https://i.ibb.co/bRDrHk2Z/florale.png",
-  "blossom.png": "https://i.ibb.co/wZyHxTGJ/blossom.png",
+  "florale.png": "https://i.imgur.com/quTNAA2.png",
+  "blossom.png": "https://i.imgur.com/csV98d1.png",
   "Rouge.png": "https://i.ibb.co/Z6rKqghB/Rouge.png",
   "orchid.png": "https://i.ibb.co/675LZjjT/orchid.png",
   "SoieBlanche.png": "https://i.ibb.co/39pLpV4N/Soie-Blanche.png",
