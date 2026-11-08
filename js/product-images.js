@@ -72,7 +72,7 @@ const PRODUCT_IMAGES = {
   "strawberry_velvet.png": "https://i.imgur.com/oO3LZzT.png",
   "honeyed_plum.png": "https://i.imgur.com/XEZ6luM.png",
   "lemon_merengue.png": "https://i.imgur.com/oA1JpCp.png",
-  "salted_butterscotch.png": "https://i.imgur.com/HhPnIFj.png"
+  "salted_butterscotch.png": "https://i.imgur.com/HhPnIFj.png",
   "amber_leather.png": "https://i.imgur.com/GQuvykQ.png",
   "spiced_fig.png": "https://i.imgur.com/lfhex4z.png",
   "black_pepper_chai.png": "https://i.imgur.com/YKtxvnK.png",
